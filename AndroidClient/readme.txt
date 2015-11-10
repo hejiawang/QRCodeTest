@@ -1,0 +1,1 @@
+这是一个Android客户端扫描解析二维码的demo，是一个Android工程。
